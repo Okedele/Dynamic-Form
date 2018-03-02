@@ -1,0 +1,44 @@
+body{
+    background-color: orangered;
+    background-size: contain;
+    text-align: center;
+    color: white;
+    font-family: serif;
+}
+h1{
+    font-size: 1000%;
+}
+.text{
+    font-size: 20px;
+    margin: 5px;
+    color: white;
+}
+button#over{
+    background-color:brown;
+    border: 0px;
+}
+#textbig{
+    border-radius: 20px;
+    border-style: none;
+    padding-left: 20px;
+    outline: 0;
+    resize: none;
+    margin-bottom: 20px;
+        
+}
+.textin{
+    width: 50%;
+    border-radius:20px;
+    border-style: none;
+    padding-left: 20px;
+    outline: 0
+}
+div#opt{
+    display: inline;
+}
+a{
+    color: white;
+}
+button#sub{
+    margin: 10px;
+}
